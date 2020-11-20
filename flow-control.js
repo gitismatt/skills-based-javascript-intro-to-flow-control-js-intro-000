@@ -1,0 +1,5 @@
+function basicTeenager(age) {
+  if(19>=age && age>=13) {
+    return('You are a teenager!')
+  }
+}
