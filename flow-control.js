@@ -11,3 +11,11 @@ function teenager(age) {
     return ('You are not a teenager')
   }
 }
+
+function ageChecker(age) {
+
+}
+
+function ternaryTeenager(age){
+  return if(19>=age && age>=13) ? 'You are a teenager' : 'You are not a teenager'
+}
